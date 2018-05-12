@@ -1,0 +1,37 @@
+_repo: Child-Life-in-Colonial-Days_43863
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43863-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Earle, Alice Morse
+    alias: Earle, Mary Alice Morse
+    birthdate: 1851
+    deathdate: 1911
+    gutenberg_agent_id: '2836'
+    url: http://www.gutenberg.org/2009/agents/2836
+description: Though first published over a hundred years ago, "Home Life in Colonial
+  Days" is filled with usefulness and vitality. In her wonderfully readable narrative,
+  Alice Morse Earle provides a fascinating description of everyday life -- the chores,
+  the tools, the dwelling places, the foods, the sights and sounds -- that Colonial
+  Americans knew. Tough not a history of Colonial America, "Home Life in Colonial
+  Days" contains many interesting tidbits about our country's earliest days. It also
+  provides an excellent description of everyday life in America, with special emphasis
+  on New England and Virginia during the 1600-1800's. As such, "Home Life in Colonial
+  Days" would be useful not just to historians and antique collectors, but to writers,
+  museum curators, and anyone who wants to understand Colonial America.
+gutenberg_issued: '2013-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43863'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'Children -- United States'
+- !lcsh 'United States -- Social life and customs -- To 1775'
+title: Child Life in Colonial Days
+url: http://www.gutenberg.org/ebooks/43863
